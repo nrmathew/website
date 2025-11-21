@@ -6,10 +6,10 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Neha Mathew',
+    name: 'Nobody Somebody',
     title: 'Struggling Economist',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Neha Mathew is a Second Year student of the BA Economics Programme at Christ University, Bangalore.\n',
+    description: 'Nobody Somebody is a Second Year student of the BA Economics Programme at Christ University, Bangalore.\n',
     tagline: 'Empowering business through data-driven intelligence.',
   location: 'Bangalore, India',
   },
